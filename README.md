@@ -1,4 +1,5 @@
 ### Hi there 👋
+<img align="center" src="https://i.ibb.co/mJLhQRn/abdullah-al-akash.png"/>
 <h1 align="center"> I'm Abdullah Al Akash</h1>
 <h3 align="center">A passionate Full-Stack Developer fromm Bangladesh. I love to do programming every day very much, this is my passion.</h3>
 
