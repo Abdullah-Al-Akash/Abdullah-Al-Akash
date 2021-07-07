@@ -1,10 +1,13 @@
 ### Hi there 👋
 <img align="center" src="https://i.ibb.co/mJLhQRn/abdullah-al-akash.png"/>
-<h1 align="center"> I'm Abdullah Al Akash</h1>
-<h3 align="center">A passionate Full-Stack Developer fromm Bangladesh. I love to do programming every day very much, this is my passion.</h3>
+<h1 align="center"> I'm a Web Developer, Student of Mathematics and a Learner</h1>
+<section display="flex"><section/>
+  <div><h4>If you give me a earth where there is no need to eat, sleep, bath and many things what we do everyday and then ask me what will I do??? <br/> <br/> Then I will answer you that "Cool Man, give me just 2 Substance, water and laptop with internet+google, I will do just my <img width="20px" src="https://i.pinimg.com/originals/cf/bb/97/cfbb9751457c7f123188d9dfdaada5ff.jpg"/> Prayer <img width="20px" src="https://i.pinimg.com/originals/cf/bb/97/cfbb9751457c7f123188d9dfdaada5ff.jpg"/>   and  <img width="20px" src="https://i.pinimg.com/originals/cf/bb/97/cfbb9751457c7f123188d9dfdaada5ff.jpg"/> Programming <img width="20px" src="https://i.pinimg.com/originals/cf/bb/97/cfbb9751457c7f123188d9dfdaada5ff.jpg"/>." <br/>  Yeah! That's me, I am really very passionate about programming, and It's mixed with my blood</h4><div/>
+    
+ <img width="50%" align="right" src="https://user-images.githubusercontent.com/37551474/113611467-3a567d80-9657-11eb-862b-b07b4f105c6f.gif"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abdullah-al-akash&label=Profile%20views&color=0e75b6&style=flat" alt="abdullah-al-akash" /> </p>
-<img align="center" src="https://user-images.githubusercontent.com/37551474/113611467-3a567d80-9657-11eb-862b-b07b4f105c6f.gif"/>
+
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abdullah-al-akash" alt="abdullah-al-akash" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
