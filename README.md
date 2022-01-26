@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 😀😀
 <img align="center" src="https://i.ibb.co/mJLhQRn/abdullah-al-akash.png"/>
 <h1 align="center"> I'm a Web Developer, Student of Mathematics and a Learner</h1>
 <section display="flex"><section/>
@@ -10,6 +10,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abdullah-al-akash&show_icons=true&locale=en&layout=compact" alt="abdullah-al-akash" /></p>
 
-<p width="50%">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abdullah-al-akash&show_icons=true&locale=en" alt="abdullah-al-akash" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abdullah-al-akash&show_icons=true&locale=en" alt="abdullah-al-akash" /></p>
 <br/>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abdullah-al-akash&" alt="abdullah-al-akash" /></p>
