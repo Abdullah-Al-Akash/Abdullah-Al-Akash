@@ -1,4 +1,4 @@
-### Hi there 😀😀
+### Hi there 😍
 <img align="center" src="https://i.ibb.co/mJLhQRn/abdullah-al-akash.png"/>
 <h1 align="center"> I'm a Web Developer, Student of Mathematics and a Learner</h1>
 <section display="flex"><section/>
