@@ -16,8 +16,8 @@
 <br/>
 
   ## ☕ Reach Out Me!
-  ***😍Website: https://abdullah-al-akash.netlify.app/*** <b/>
-  ***😍Email: aabdullahalakash@gmail.com***
+  ***😍😍Website: https://abdullah-al-akash.netlify.app/***😍😍 <b/>
+  ***😍😍Email: aabdullahalakash@gmail.com***
   <br/>
 
 ## ☕ Connect with me!
