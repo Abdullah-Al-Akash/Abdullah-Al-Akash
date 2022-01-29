@@ -1,4 +1,5 @@
 ### Hi there 😍
+![GitHub Light](https://github.com/github-light.png#gh-dark-mode-only)
 <img align="center" src="https://i.ibb.co/mJLhQRn/abdullah-al-akash.png"/>
 <h1 align="center"> I'm a Web Developer, Student of Mathematics and a Learner</h1>
 <section display="flex"><section/>
