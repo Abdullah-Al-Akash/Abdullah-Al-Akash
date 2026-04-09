@@ -1,25 +1,87 @@
-### Hi there 😍 😍 😍
-<img align="center" src="https://i.ibb.co/mJLhQRn/abdullah-al-akash.png"/>
-<h1 align="center">I'm a Web Developer, Student of Mathematics and a Learner</h1>
-<section display="flex"><section/>
-  <div><h4>If you give me a earth where there is no need to eat, sleep, bath and many things what we do everyday and then ask me what will I do??? <br/> <br/> Then I will answer you that "Cool Man, give me just 2 Substance, water and laptop with internet+google, I will do just my <img width="20px" src="https://i.pinimg.com/originals/cf/bb/97/cfbb9751457c7f123188d9dfdaada5ff.jpg"/> Prayer <img width="20px" src="https://i.pinimg.com/originals/cf/bb/97/cfbb9751457c7f123188d9dfdaada5ff.jpg"/>   and  <img width="20px" src="https://i.pinimg.com/originals/cf/bb/97/cfbb9751457c7f123188d9dfdaada5ff.jpg"/> Programming <img width="20px" src="https://i.pinimg.com/originals/cf/bb/97/cfbb9751457c7f123188d9dfdaada5ff.jpg"/>." <br/>  Yeah! That's me, I am really very passionate about programming, and It's mixed with my blood.</h4><div/>
-    
- <img width="50%" align="right" src="https://user-images.githubusercontent.com/37551474/113611467-3a567d80-9657-11eb-862b-b07b4f105c6f.gif"/>
+<!-- Header Animation / Typing SVG -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=500&color=FF69B4&center=true&vCenter=true&width=500&lines=Hi+there+%F0%9F%98%8D%F0%9F%92%96%F0%9F%8C%9F;Welcome+to+my+digital+world;I'm+Abdullah+Al+Akash" alt="Typing SVG" />
+</p>
+
+<!-- Animated Banner / Profile Image with Glow Effect -->
+<p align="center">
+  <img src="https://i.ibb.co/mJLhQRn/abdullah-al-akash.png" alt="Abdullah Al Akash" width="70%" style="border-radius: 20px; box-shadow: 0 0 20px rgba(255,105,180,0.6);" />
+</p>
+
+<h1 align="center">✨ Web Developer | Mathematics Student | Forever Learner ✨</h1>
+
+<!-- Fancy Animated Divider -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="80%" />
+</p>
+
+<!-- Passionate Quote / Story with Icons -->
+<div align="center">
+  <h3>
+    🌍 If you gave me a world where I never had to eat, sleep, or bathe…<br/><br/>
+    💧 Just give me water, a laptop, and internet + Google —<br/>
+    🧎 I’d do my <img src="https://i.pinimg.com/originals/cf/bb/97/cfbb9751457c7f123188d9dfdaada5ff.jpg" width="20px" /> <strong>Prayers</strong> <img src="https://i.pinimg.com/originals/cf/bb/97/cfbb9751457c7f123188d9dfdaada5ff.jpg" width="20px" /><br/>
+    💻 and <img src="https://i.pinimg.com/originals/cf/bb/97/cfbb9751457c7f123188d9dfdaada5ff.jpg" width="20px" /> <strong>Programming</strong> <img src="https://i.pinimg.com/originals/cf/bb/97/cfbb9751457c7f123188d9dfdaada5ff.jpg" width="20px" /> all day long.
+  </h3>
+  <h4>💖 That’s me — programming isn’t just a skill, it runs in my blood. 💖</h4>
+</div>
+
 <br/>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=abdullah-al-akash&label=Profile%20views&color=0e75b6&style=flat" alt="abdullah-al-akash" /> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abdullah-al-akash&show_icons=true&locale=en&layout=compact" alt="abdullah-al-akash" /></p>
+<!-- Animated Coding GIF & Stats Side-by-Side -->
+<table width="100%">
+  <tr>
+    <td width="50%" align="center">
+      <img src="https://user-images.githubusercontent.com/37551474/113611467-3a567d80-9657-11eb-862b-b07b4f105c6f.gif" width="90%" style="border-radius: 15px;" />
+    </td>
+    <td width="50%" align="center">
+      <p align="left">
+        <img src="https://komarev.com/ghpvc/?username=abdullah-al-akash&label=✨%20Profile%20Views&color=ff69b4&style=flat" alt="profile views" />
+      </p>
+      <p align="left">
+        <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=abdullah-al-akash&show_icons=true&locale=en&layout=compact&theme=radical" alt="top langs" />
+      </p>
+      <p align="left">
+        <img align="center" src="https://github-readme-stats.vercel.app/api?username=abdullah-al-akash&show_icons=true&locale=en&theme=radical" alt="github stats" />
+      </p>
+      <p align="left">
+        <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abdullah-al-akash&theme=radical" alt="streak stats" />
+      </p>
+    </td>
+  </tr>
+</table>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abdullah-al-akash&show_icons=true&locale=en" alt="abdullah-al-akash" /></p>
 <br/>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abdullah-al-akash&" alt="abdullah-al-akash" /></p>
-<br/>
 
-  ### ☕ Reach Out Me!
-  ***😍😍Website: https://abdullah-al-akash.netlify.app/***<b/>
-  ***😍😍Email: aabdullahalakash@gmail.com***😍😍
-  <br/>
+<!-- Fancy Contact Section with Neon Glow -->
+<div align="center">
+  <h2>☕ Reach Out to Me</h2>
+  <p>
+    🌐 <strong>Website:</strong> <a href="https://abdullah-al-akash.netlify.app/" target="_blank">abdullah-al-akash.netlify.app</a><br/>
+    📧 <strong>Email:</strong> <a href="mailto:aabdullahalakash@gmail.com">aabdullahalakash@gmail.com</a>
+  </p>
+</div>
 
-#### ☕ Connect with me!
-  [<img src='https://camo.githubusercontent.com/2d1ffa69dd491ebeca01b2098cf8233dd09950ff5895abccd5b455ca442abc59/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f46616365626f6f6b2d3138373746323f7374796c653d666f722d7468652d6261646765266c6f676f3d66616365626f6f6b266c6f676f436f6c6f723d7768697465' alt='facebook' height='40'>](https://web.facebook.com/abdullah.akash.al)[<img src='https://camo.githubusercontent.com/bd2bd127c104ba5c98bb12c70801b075aee1f040009089510f69554300e7ff41/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4769742d4630353033323f7374796c653d666f722d7468652d6261646765266c6f676f3d676974266c6f676f436f6c6f723d7768697465' alt='github' height='40'>](https://github.com/Abdullah-Al-Akash)  [<img src='https://camo.githubusercontent.com/a80d00f23720d0bc9f55481cfcd77ab79e141606829cf16ec43f8cacc7741e46/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c696e6b6564496e2d3030373742353f7374796c653d666f722d7468652d6261646765266c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d7768697465' alt='linkedin' height='40'>](https://www.linkedin.com/in/abdullahalakash/)
+<!-- Social Links with Animated Buttons -->
+<div align="center">
+  <h3>🔗 Connect with Me</h3>
+  <p>
+    <a href="https://web.facebook.com/abdullah.akash.al" target="_blank">
+      <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white&logoWidth=40" alt="facebook" />
+    </a>
+    <a href="https://github.com/Abdullah-Al-Akash" target="_blank">
+      <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="github" />
+    </a>
+    <a href="https://www.linkedin.com/in/abdullahalakash/" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" />
+    </a>
+  </p>
+</div>
 
+<!-- Footer Animation -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="80%" />
+</p>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2500&pause=500&color=F75C7E&center=true&width=435&lines=Thanks+for+visiting!+%F0%9F%92%BB;Keep+coding+and+stay+blessed+%F0%9F%8C%9F" alt="footer typing" />
+</p>
