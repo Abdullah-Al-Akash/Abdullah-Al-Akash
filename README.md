@@ -1,11 +1,8 @@
-<!-- Header Typing Animation -->
-<p align="center">
-  <img src="https://i.ibb.co.com/Kp6MtCJg/Chat-GPT-Image-Jun-29-2026-04-39-26-AM.png" alt="Typing SVG" />
-</p>
+
 
 <!-- Profile Banner -->
 <p align="center">
-  <img src="https://i.ibb.co/mJLhQRn/abdullah-al-akash.png" alt="Abdullah Al Akash" width="75%" style="border-radius: 20px;" />
+  <img src="https://i.ibb.co.com/Kp6MtCJg/Chat-GPT-Image-Jun-29-2026-04-39-26-AM.png" alt="Abdullah Al Akash" width="75%" style="border-radius: 20px;" />
 </p>
 
 <h1 align="center">🚀 Full-Stack Web Developer (MERN) | Problem Solver</h1>
